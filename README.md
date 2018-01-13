@@ -1,4 +1,4 @@
-# Duke on Fluidsynth
+# Duke on FluidSynth
 
 This is a patchset I wrote for eduke32 that replaces the SDL2_Mixer backend,
 since its MIDI playback didn't work on my machine.
@@ -15,7 +15,7 @@ you'll have to edit line 93 of `patch/sdlmusic.cpp`.
 
 # Demo Video
 
-[![Duke on Fluidsynth](http://img.youtube.com/vi/mxkctwRZlHo/0.jpg)](http://www.youtube.com/watch?v=mxkctwRZlHo "Duke on Fluidsynth")
+[![Duke on FluidSynth](http://img.youtube.com/vi/mxkctwRZlHo/0.jpg)](http://www.youtube.com/watch?v=mxkctwRZlHo "Duke on FluidSynth")
 
 # Installation
 

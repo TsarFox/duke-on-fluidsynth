@@ -90,6 +90,7 @@ int32_t MUSIC_Init(int32_t SoundCard, int32_t Address)
     player = new_fluid_player(synth);
     driver = new_fluid_audio_driver(settings, synth);
 
+    MUSIC_SetLoopFlag(MUSIC_LoopSong); // Loop by default
     fluid_synth_sfload(synth, "/usr/share/soundfonts/FluidR3_GM.sf2", 1);
 
     return MIDI_Ok;
