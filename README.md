@@ -9,6 +9,10 @@ patching script merely copies my source files into the tree.
 Also, this was only tested on the latest SVN checkout (r6576). It _might_ work
 on the stable releases, but I don't know for sure.
 
+# Demo Video
+
+[![Duke on Fluidsynth Demo](http://img.youtube.com/vi/mxkctwRZlHo/0.jpg)](http://www.youtube.com/watch?v=mxkctwRZlHo "Duke on Fluidsynth Demo")
+
 # Installation
 
 ```
